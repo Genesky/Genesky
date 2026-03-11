@@ -5,7 +5,7 @@
 <h1 align="center">🧠 Eugene Ochako</h1>
 
 <h3 align="center">
-AI Research • Planetary Systems • Innovation Architecture
+AI Research • Planetary Systems • Innovation Architecture @Atlasanctum
 </h3>
 
 <p align="center">
