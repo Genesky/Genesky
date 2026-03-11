@@ -1,286 +1,285 @@
-🧠 Eugene Ochako — Intelligence Systems Lab
+<!-- ========================================= -->
+<!-- EUGENE OCHAKO • INTELLIGENCE SYSTEMS LAB -->
+<!-- ========================================= -->
+
+<h1 align="center">🧠 Eugene Ochako</h1>
+
+<h3 align="center">
+AI Research • Planetary Systems • Innovation Architecture
+</h3>
+
 <p align="center">
-
-Artificial Intelligence • Planetary Health • Innovation Systems
-
-Designing the architectures of the next civilization.
-
+Designing intelligence systems for the next civilization.
 </p>
-🜂 Lab Sigil
 
-Every research lab has a symbol.
-This lab uses a triadic intelligence sigil.
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Research-blue">
+<img src="https://img.shields.io/badge/Planetary-Health-green">
+<img src="https://img.shields.io/badge/Innovation-Systems-purple">
+<img src="https://img.shields.io/badge/Open-Science-orange">
+</p>
 
-              ✦
-           Intelligence
-              ▲
-              │
-      Planetary Systems ─── Human Civilization
-Symbolic Meaning
-Symbol	Meaning
-✦	Knowledge / discovery
-▲	Intelligence systems
-◯	Planetary equilibrium
-⬡	Civilization-scale coordination
+---
 
-The lab explores the intersection of these forces.
+# ✦ Intelligence Systems Lab
 
-🌍 Mission
+A research initiative exploring how **artificial intelligence, systems science, and global development** can converge to build technologies that support:
 
-The Intelligence Systems Lab explores how advanced computation, systems science, and institutional design can build resilient futures for humanity and the planet.
+- planetary resilience  
+- global learning systems  
+- regenerative economies  
+- ethical AI governance  
 
-Our work integrates:
+The goal is to **design intelligence infrastructure capable of guiding civilization-scale progress**.
 
-Artificial Intelligence
+---
 
-Global Health Systems
+# 🜂 Lab Sigil System
 
-Climate Intelligence
 
-Economic Infrastructure
+✦ Knowledge
+▲ Intelligence
+◯ Planetary Systems
+⬡ Civilizational Coordination
 
-Open Knowledge Networks
+         ✦
+     Intelligence
+        ▲
+        │
+
+Planetary Systems ── Civilization
+
+
+The lab studies the **intersection of knowledge, intelligence, and planetary systems**.
+
+---
+
+# 🧬 Research Pillars
+
+## 🤖 Artificial Intelligence
+
+Developing systems that enhance human intelligence.
+
+Focus areas
+
+- generative AI
+- knowledge graphs
+- scientific discovery tools
+- AI governance frameworks
+
+---
+
+## 🌍 Planetary Health Intelligence
+
+Integrating climate, ecological, and health data into unified models.
 
 Goal:
 
-Design intelligence systems capable of coordinating civilization-scale progress.
+Build **AI-driven planetary health forecasting systems**.
 
-🧬 Research Pillars
-🤖 AI Systems
+---
 
-Developing intelligent systems that augment human decision-making.
+## 🧠 Knowledge Infrastructure
 
-Focus areas:
+Designing **open scientific ecosystems**:
 
-generative AI
+- AI research copilots  
+- distributed knowledge networks  
+- open research infrastructure  
 
-knowledge graphs
+---
 
-scientific AI assistants
+## ⚖️ Regenerative Economic Systems
 
-AI governance
+Exploring financial architectures supporting:
 
-🌍 Planetary Intelligence
+- global inclusion
+- sustainable growth
+- long-term resilience
 
-Building models that connect:
+---
 
-climate
+# 🛰 Research Network Map
 
-health
+             Artificial Intelligence
+                     │
+                     │
+  Planetary Systems ─┼─ Knowledge Systems
+                     │
+                     │
+            Regenerative Economics
 
-ecosystems
+This architecture explores how **intelligence networks coordinate global systems**.
 
-economies
+---
 
-These systems aim to enable planetary-scale forecasting and resilience planning.
+# 🚀 Flagship Initiatives
 
-🧠 Knowledge Infrastructure
+## Bohrium
+Computational framework for **regenerative systems science**.
 
-Designing open scientific ecosystems.
+Research themes:
 
-Includes:
+- complex adaptive systems
+- ecological modeling
+- planetary intelligence
 
-AI-powered research assistants
+---
 
-distributed knowledge networks
-
-open research frameworks
-
-⚖️ Regenerative Systems
-
-Exploring economic and institutional architectures that support:
-
-sustainability
-
-equitable growth
-
-long-term human flourishing
-
-🛰 Animated Research Map
-
-(Conceptual architecture of the lab's research ecosystem)
-
-                 ┌─────────────────┐
-                 │  Artificial AI  │
-                 └────────┬────────┘
-                          │
-           ┌──────────────┼──────────────┐
-           │                              │
- ┌─────────────────┐           ┌─────────────────┐
- │ Planetary Health│           │Knowledge Systems│
- └────────┬────────┘           └────────┬────────┘
-          │                              │
-          └──────────────┬───────────────┘
-                         │
-                 ┌─────────────────┐
-                 │Regenerative Econ│
-                 └─────────────────┘
-
-These domains feed into the creation of global intelligence infrastructure.
-
-🧭 Civilization-Scale Innovation Roadmap
-Phase I — Foundations (Present)
-
-Building research frameworks:
-
-AI learning systems
-
-knowledge networks
-
-climate-health modeling
-
-Phase II — Integrated Intelligence
-
-Develop systems capable of coordinating:
-
-global research collaboration
-
-planetary health insights
-
-policy simulation
-
-Phase III — Planetary Intelligence Infrastructure
-
-Develop global platforms capable of:
-
-climate-health forecasting
-
-economic resilience modeling
-
-global scientific coordination
-
-Phase IV — Civilizational Coordination
-
-Long-term vision:
-
-AI-assisted global decision systems for humanity.
-
-🚀 Flagship Projects
-🌐 EquiNexus
+## EquiNexus
 
 Global financial infrastructure enabling:
 
-cross-border equity access
+- cross-border equity access  
+- financial inclusion  
+- emerging market investment networks  
 
-emerging market investment
+---
 
-financial inclusion
-
-🧬 Bohrium
-
-Computational framework for regenerative systems science.
-
-Focus:
-
-complex adaptive systems
-
-ecological modeling
-
-planetary intelligence
-
-🏫 AI Learning Systems
+## AI Learning Systems
 
 Generative AI tutors designed to:
 
-personalize education
+- personalize learning  
+- support educators  
+- accelerate human knowledge acquisition  
 
-accelerate learning
+---
 
-support educators globally
+## Harambee Net
 
-⚽ Harambee Net
-
-Community-driven platform for sports development investment.
+Platform exploring **community investment in sports development**.
 
 Goal:
 
-Enable sustainable talent ecosystems in Africa.
+Create sustainable ecosystems for emerging athletic talent.
 
-🧠 Repository Ecosystem
+---
 
-Inspired by labs such as the MIT Media Lab.
+# 🧭 Civilization Innovation Roadmap
+
+### Phase I — Foundations
+
+Research frameworks
+
+- AI learning systems  
+- planetary health models  
+- open knowledge networks  
+
+---
+
+### Phase II — Integrated Intelligence
+
+Systems capable of coordinating:
+
+- global research collaboration  
+- health and climate insights  
+- scientific discovery
+
+---
+
+### Phase III — Planetary Intelligence Infrastructure
+
+Platforms capable of:
+
+- global climate-health forecasting  
+- economic resilience modeling  
+- coordinated global research
+
+---
+
+### Phase IV — Civilizational Coordination
+
+Long-term vision:
+
+AI-assisted global decision systems.
+
+---
+
+# 🧠 Repository Ecosystem
+
+Inspired by the architecture used in advanced research labs.
+
 
 AI-LAB
 │
 ├── intelligence-systems
-│
 ├── planetary-health-models
-│
 ├── knowledge-infrastructure
-│
 ├── regenerative-economics
-│
-└── civic-innovation
+├── civic-innovation
+└── AI-learning-systems
 
-Each repository represents a research node in the lab ecosystem.
 
-🔬 Current Research Questions
+Each repository acts as a **research node** within the lab.
 
-How can AI accelerate scientific discovery?
+---
 
-Can planetary health systems be modeled computationally?
+# 📊 Research Activity
 
-What governance systems are required for powerful AI?
+<p align="center">
 
-How can financial infrastructure support global inclusion?
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent">
 
-📊 Lab Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" /> </p>
-🧰 Technology Stack
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent">
+
+</p>
+
+---
+
+# 🧰 Technology Stack
+
+
 Python
-Artificial Intelligence
 Machine Learning
+Artificial Intelligence
 Knowledge Graphs
-Data Systems
-Cloud Infrastructure
 Systems Modeling
-📚 Intellectual Influences
+Cloud Infrastructure
+Data Science
 
-This lab's philosophy is influenced by thinkers such as:
 
-Marcus Aurelius
+---
 
-Alexander the Great
+# 📚 Intellectual Influences
 
-Niall Ferguson
+- Marcus Aurelius  
+- Alexander the Great  
+- Niall Ferguson  
+- The Ascent of Money  
 
-The Ascent of Money
+These perspectives combine **philosophy, strategy, and systems thinking**.
 
-🌠 Long-Term Vision
+---
 
-The ultimate goal is to contribute to building:
+# 🌍 Long-Term Vision
 
-planetary intelligence systems
+To contribute to the development of:
 
-ethical AI governance
-
-regenerative economic models
-
-global knowledge infrastructures
+- planetary intelligence infrastructure  
+- ethical AI governance systems  
+- regenerative economic models  
+- global learning networks  
 
 In essence:
 
-Design the systems that help humanity navigate the future.
+**Design systems that help humanity navigate the future.**
 
-🤝 Collaboration
+---
 
-Open to collaborating with researchers and institutions working on:
+# 🤝 Collaboration
 
-AI for global health
+Interested in working with researchers and builders exploring:
 
-climate intelligence
+- AI for global health  
+- climate intelligence  
+- digital public goods  
+- open science ecosystems  
+- education technology  
 
-digital public goods
+---
 
-open science
+# ✦ Motto
 
-next-generation education systems
-
-📡 Connect
-
-If you're working on bold ideas shaping the future of civilization — let's collaborate.
-
-✦ Lab Motto
-
-“The future is not discovered.
-It is architected.”
+> The future is not predicted.  
+> It is architected.
