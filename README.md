@@ -219,9 +219,9 @@ Each repository acts as a **research node** within the lab.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api?username=Genesky&show_icons=true&theme=transparent">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Genesky&theme=transparent">
 
 </p>
 
