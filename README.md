@@ -1,4 +1,4 @@
 ## 🌌 Focus
 - 🔭 **Atlas Sanctum** — [Explore →](https://github.com/atlasanctum)
-- 🌱 Learning **Systems Thinking**
+- 🌱 Learning **Advanced Technology & Nature**
 - 🤝 Open to **collaboration on open-source projects**
